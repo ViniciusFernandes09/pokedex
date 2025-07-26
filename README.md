@@ -1,2 +1,1 @@
-# pokedex
-Atividade DIO Santander: Pokedex
+# Trilha JS Developer - Pokedex
